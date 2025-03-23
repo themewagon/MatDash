@@ -1,7 +1,7 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 import { lazy } from 'react';
-import { Navigate, createBrowserRouter } from 'react-router';
+import { Navigate } from 'react-router';
 import Loadable from 'src/layouts/full/shared/loadable/Loadable';
 
 /* ***Layouts**** */
@@ -54,5 +54,4 @@ const Router = [
   },
 ];
 
-const router = createBrowserRouter(Router, { basename: '/MatDash' });
-export default router;
+export default Router;
