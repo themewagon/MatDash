@@ -17,11 +17,12 @@ https://github.com/themewagon/MatDash.git
 
 ## Author
 
-Design and code are completely written by BootstrapMade's design and development team.  
+Design and code are completely written by AdminMart's design and development team.  
 
 
 ## License
 
- - Design and Code is Copyright &copy; [BootstrapMade](https://bootstrapmade.com/)
+ - Design and Code is Copyright &copy; [AdminMart ](https://www.adminmart.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
+](https://www.adminmart.com/)
